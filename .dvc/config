@@ -1,4 +1,0 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = C:\Users\Amit\AppData\Local\Temp\dvc_data_storage
